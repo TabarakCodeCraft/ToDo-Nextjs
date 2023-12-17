@@ -1,0 +1,103 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/commponents/container/container.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************/
+.container_container__a2JHt {
+    width: 100%;
+    max-width: 900px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin: auto;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/commponents/header/header.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************/
+.header_nav__L24Bh{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.header_content__0twbt{
+    display: flex;
+    gap: 20px;
+}
+
+.header_content__0twbt a{
+    text-decoration: none;
+    color: #000;
+}
+
+.header_content__0twbt li{
+    list-style: none;
+}
+.header_header__UVDlg{
+border-bottom:1px solid #000;
+height: 70px;
+align-items: center;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/commponents/todo/todo.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
+.todo_input__LiUoH{
+    display: flex;
+    width: 100%;
+    gap: 50px;
+    padding-top: 50px;
+    }
+.todo_input__LiUoH input{
+    width: 700px;
+    height: 40px;
+    border: none;
+    border: 2px solid #EEEEEE;
+    border-radius: 6px;
+    font-size: 20px;
+    color: #666666;
+    align-items: center;
+}
+.todo_input__LiUoH button{
+    width: 200px;
+    height: 40px;
+    background-color: blue;
+    color: #EEEEEE;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 6px;
+}
+
+.todo_list__ErkvP{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 20px;
+}
+.todo_item__VQva_{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #F6F6F6;
+    height: 50px;
+}
+.todo_item__VQva_ p{
+    font-size: 20px;
+    padding-left: 20px;
+}
+.todo_item__VQva_ button{
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    color: red;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+.todo_total__CtKPs span{
+    color: #666666;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/page.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************/
+
